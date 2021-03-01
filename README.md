@@ -1,4 +1,5 @@
 # offset-distance-and-stroke-dashoffset
+
 使用 JS 控制 Div + SVG 不规则轨迹运动进度的简单示例。
 
 
@@ -11,7 +12,7 @@
 
 **Demo:** https://www.puxiao.com/demo/offset-distance-and-stroke-dashoffset/
 
-滑动框中的数值代表当前不规则轨迹中，方块位置的百分比，修改该值后，方块和方块下面的黄色线条会响应移动和变化。
+滑动块中的数值代表当前不规则轨迹中，方块位置的百分比，修改该值后，方块和方块下面的黄色线条会响应移动和变化。
 
 <br/>
 
@@ -238,3 +239,5 @@ d 属性值包含了 所有的路径关键点和连接关键点的贝塞尔曲�
 3. SVG路径动画简易指南
 
    https://www.w3cplus.com/svg/svg-animation-guide.html
+   
+   

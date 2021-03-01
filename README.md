@@ -106,7 +106,8 @@ const SVGAnimation = () => {
             <svg className='both-svg' viewBox="0 0 280 150">
                 <path d={points} />
             </svg>
-            <input type='number' value={num} min="1" max="100" step='1' onChange={handleInputChange} />
+            <h5>当前进度百分比：{num}</h5>
+            <input type='range' value={num} min="1" max="100" step='1' onChange={handleInputChange} />
         </div>
     )
 }
@@ -157,6 +158,18 @@ export default SVGAnimation
 
 .over-svg path {
     stroke: yellow;
+}
+
+
+h5 {
+    margin: 10px;
+    color: white;
+}
+
+input {
+    display: block;
+    margin: 20px 10px 10px;
+    width: 220px;
 }
 ```
 

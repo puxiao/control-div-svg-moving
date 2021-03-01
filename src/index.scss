@@ -1,0 +1,27 @@
+.over-icon {
+    offset-path: path('M20,20 C20,100 200,0 200,100');
+    offset-rotate: 0deg;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    background: yellow;
+}
+
+.both-svg {
+    width: 280px;
+    height: 150px;
+}
+
+.both-svg path {
+    stroke-width: 2px;
+    fill: none;
+    stroke: #cccccc;
+}
+
+.over-svg {
+    position: absolute;
+}
+
+.over-svg path {
+    stroke: yellow;
+}

@@ -6,7 +6,7 @@
 
 #### 示例演示效果
 
-![demo](https://www.puxiao.com/demo/offset-distance-and-stroke-dashoffset/offset-distance-and-stroke-dashoffset-demo.jpg)
+![demo](https://www.puxiao.com/demo/offset-distance-and-stroke-dashoffset/demo.jpg)
 
 
 

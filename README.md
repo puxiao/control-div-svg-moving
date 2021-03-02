@@ -6,7 +6,7 @@
 
 #### 示例演示效果
 
-![demo](https://www.puxiao.com/demo/offset-distance-and-stroke-dashoffset/offset-distance-and-stroke-dashoffset-demo.jpg)
+![demo](https://www.puxiao.com/demo/offset-distance-and-stroke-dashoffset/offset-distance-and-stroke-dashoffset.jpg)
 
 
 
@@ -25,7 +25,7 @@
 
 下面讲解一下具体过程。
 
-
+<br/>
 
 #### 1、路径数据来源
 

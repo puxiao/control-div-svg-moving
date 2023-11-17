@@ -184,7 +184,7 @@ const SVGAnimation = () => {
         <div>
             <div className='over-icon' style={{ offsetDistance: `${num}%` }}></div>
             <svg className='both-svg over-svg' viewBox="0 0 250 230">
-                <path d={points} style={{ strokeDasharray: length, strokeDashoffset: length * (1 - num / 100) }} />
+                <path d={points} pathLength={length} style={{ strokeDasharray: length, strokeDashoffset: length * (1 - num / 100) }} />
             </svg>
             <svg className='both-svg' viewBox="0 0 250 230">
                 <path d={points} />
